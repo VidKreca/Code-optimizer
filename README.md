@@ -5,4 +5,4 @@ Optimizes any source code file.
   - overall performance for any programs, 
   - removes any bugs.
   
-Usage: 	./optimizer.sh <SOURCE_FILE> <OUTPUT_FILE> <COMMENT WILDCARD CHARACTER FOR SOURCE LANGUAGE>
+Usage: 	./optimizer.sh <SOURCE_FILE> <OUTPUT_FILE> <COMMENT_WILDCARD_CHARACTER_FOR_SOURCE_LANGUAGE>
